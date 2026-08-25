@@ -6,6 +6,6 @@
   "scripts": {},
   "devDependencies": {
     "htmlhint": "^1.9.2",
-    "stylelint": "^16.26.1"
+    "stylelint": "^15.11.0"
   }
 }
