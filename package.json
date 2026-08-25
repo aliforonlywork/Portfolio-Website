@@ -4,5 +4,8 @@
   "description": "Multi-page static portfolio website",
   "private": true,
   "scripts": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "htmlhint": "^1.9.2",
+    "stylelint": "^15.11.0"
+  }
 }
